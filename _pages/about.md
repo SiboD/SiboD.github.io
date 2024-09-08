@@ -14,40 +14,45 @@ I am a Ph.D. student at Computer Science Department in Georgetown University. My
 
 Education
 ======
-**Georgetown University**, Washington, DC, USA &emsp;&emsp; Aug 2021 - Now
+**Georgetown University**, Washington, DC, USA &emsp;&emsp; 08/2021 - Now
 - Ph.D., Computer Science, Computer Vision Group
 - Advisor: Sarah A. Bargal
 
-**Georgetown University**, Washington, DC, USA &emsp;&emsp; Aug 2019 - May 2021
+**Georgetown University**, Washington, DC, USA &emsp;&emsp; 08/2019 - 05/2021
 - M.S., Computer Science 
 
-**Beihang University**, Beijing, China &emsp;&emsp; Aug 2015 - July 2019
+**Beihang University**, Beijing, China &emsp;&emsp; 08/2015 - 07/2019
 - B.E., Computer Science 
-
-
-|                                                  |                      |
-|--------------------------------------------------|---------------------:|
-| **Georgetown University**, Washington, DC, USA   |       Aug 2021 - Now |
-| - Ph.D., Computer Science, Computer Vision Group |                      |
-| - Advisor: Sarah A. Bargal                       |                      |
-| **Georgetown University**, Washington, DC, USA   |  Aug 2019 - May 2021 |
-| - M.S., Computer Science                         |                      |
-| **Beihang University**, Beijing, China           | Aug 2015 - July 2019 |
-| - B.E., Computer Science                         |                      |
 
 
 
 Publications
 ======
-
-
-
+- He, Q. \& **Dong, S.** (2024, July). Predicting Missing Response with BERT Model in Process Data. Accepted as an oral presentation at the International Meeting of Psychometric Society (IMPS), Prague, Czech.
+- **Dong, S.** \& Yang, G. H. (2022, November). Do We Really Need Everything Everywhere All at Once? Query-Specific Fine-Tuning for Transformer-Based Neural Retrievers. Accepted as a presentation at the 31st Text REtrieval Conference (TREC). Rockville, MD, USA.
+- **Dong, S.**, Goldstein, J., \& Yang, G. H. (2022, August). Gazby: Gaze-based bert model to incorporate human attention in neural information retrieval. In Proceedings of the 2022 ACM SIGIR International Conference on Theory of Information Retrieval (ICTIR), Madrid Spain.
+- **Dong, S.**, Goldstein, J., \& Yang, G. H. (2022, August). SEINE: SEgment-based Indexing for NEural information retrieval. Workshop on Reaching Efficiency in Neural Information Retrieval (ReNeuIR) of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid Spain.   
 
 
 
 Experiences
 ======
+**Bytedance**, Bellevue, WA, USA &emsp;&emsp; 05/2023 - 08/2023
+- Research Scientist Intern, Applied Machine Learning Team
 
+**Didi Chuxing**, Beijing, China &emsp;&emsp; 03/2019 - 08/2019
+- Product Operation Intern, Didi Premier Growth Group
+
+**University of California, Berkeley**, Berkeley, CA, USA &emsp;&emsp; 07/2018 - 09/2018
+- Summer Intern, Visual Computing Lab
+- Advisor: Brian A. Barsky
+
+**Sina Weibo**, Beijing, China &emsp;&emsp; 10/2017 - 01/2018
+- Data Analysis Intern, Information Flow Analysis Department
+
+**City University of Hong Kong** Hong Kong, China &emsp;&emsp; 07/2017 - 09/2017
+- Summer Intern, College of Business
+- Advisor: Jing Wu
 
 
 
