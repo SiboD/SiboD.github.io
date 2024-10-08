@@ -14,24 +14,24 @@ I am a Ph.D. student at Computer Science Department in Georgetown University. My
 
 Education
 ======
-**Georgetown University**, Washington, DC, USA &emsp;&emsp; 08/2021 - Now
+**Georgetown University**, Washington, DC, USA &emsp;&emsp;&emsp; 08/2021 - Now
 - Ph.D., Computer Science, Computer Vision Group
 - Advisor: Sarah A. Bargal
 
-**Georgetown University**, Washington, DC, USA &emsp;&emsp; 08/2019 - 05/2021
+**Georgetown University**, Washington, DC, USA &emsp;&emsp;&emsp; 08/2019 - 05/2021
 - M.S., Computer Science 
 
-**Beihang University**, Beijing, China &emsp;&emsp; 08/2015 - 07/2019
+**Beihang University**, Beijing, China &emsp;&emsp;&emsp;&emsp; 08/2015 - 07/2019
 - B.E., Computer Science 
 
 
 
 Publications
 ======
-- He, Q. \& **Dong, S.** (2024, July). Predicting Missing Response with BERT Model in Process Data. Accepted as an oral presentation at the International Meeting of Psychometric Society (IMPS), Prague, Czech.
-- **Dong, S.** \& Yang, G. H. (2022, November). Do We Really Need Everything Everywhere All at Once? Query-Specific Fine-Tuning for Transformer-Based Neural Retrievers. Accepted as a presentation at the 31st Text REtrieval Conference (TREC). Rockville, MD, USA.
-- **Dong, S.**, Goldstein, J., \& Yang, G. H. (2022, August). Gazby: Gaze-based bert model to incorporate human attention in neural information retrieval. In Proceedings of the 2022 ACM SIGIR International Conference on Theory of Information Retrieval (ICTIR), Madrid Spain.
-- **Dong, S.**, Goldstein, J., \& Yang, G. H. (2022, August). SEINE: SEgment-based Indexing for NEural information retrieval. Workshop on Reaching Efficiency in Neural Information Retrieval (ReNeuIR) of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid Spain.   
+- He, Q. & **Dong, S.** (2024, July). Predicting Missing Response with BERT Model in Process Data. Accepted as an oral presentation at the International Meeting of Psychometric Society (IMPS), Prague, Czech.
+- **Dong, S.** & Yang, G. H. (2022, November). Do We Really Need Everything Everywhere All at Once? Query-Specific Fine-Tuning for Transformer-Based Neural Retrievers. Accepted as a presentation at the 31st Text REtrieval Conference (TREC). Rockville, MD, USA.
+- **Dong, S.**, Goldstein, J., & Yang, G. H. (2022, August). Gazby: Gaze-based bert model to incorporate human attention in neural information retrieval. In Proceedings of the 2022 ACM SIGIR International Conference on Theory of Information Retrieval (ICTIR), Madrid Spain.
+- **Dong, S.**, Goldstein, J., & Yang, G. H. (2022, August). SEINE: SEgment-based Indexing for NEural information retrieval. Workshop on Reaching Efficiency in Neural Information Retrieval (ReNeuIR) of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid Spain.   
 
 
 
