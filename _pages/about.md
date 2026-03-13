@@ -28,7 +28,7 @@ Education
 
 Publications
 ======
-- **Dong, S.**, Shaheen, I., Shen, M., Mallick, R., & Bargal, S. A. (2025). ViSTA: Visual Storytelling using Multi-modal Adapters for Text-to-Image Diffusion Models. 2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). Tucson, AZ, USA. \textbf{Accepted as Oral (10\%)}
+- **Dong, S.**, Shaheen, I., Shen, M., Mallick, R., & Bargal, S. A. (2025). ViSTA: Visual Storytelling using Multi-modal Adapters for Text-to-Image Diffusion Models. 2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). Tucson, AZ, USA. **Accepted as Oral (10%)**
 - Mallick, R., **Dong, S.**, Ruiz, N., & Bargal, S. A. (2025). D-Feat Occlusions: Diffusion Features for Robustness to Partial Visual Occlusions in Object Recognition. 4th Workshop on Uncertainty Quantification for Computer Vision of the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR). Nashville, TN, USA. 
 - He, Q. & **Dong, S.** (2024, July). Predicting Missing Response with BERT Model in Process Data. Accepted as an oral presentation at the International Meeting of Psychometric Society (IMPS), Prague, Czech.
 - **Dong, S.** & Yang, G. H. (2022, November). Do We Really Need Everything Everywhere All at Once? Query-Specific Fine-Tuning for Transformer-Based Neural Retrievers. Accepted as a presentation at the 31st Text REtrieval Conference (TREC). Rockville, MD, USA.
