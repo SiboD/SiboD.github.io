@@ -28,15 +28,24 @@ Education
 
 Publications
 ======
+- **Dong, S.**, Shaheen, I., Shen, M., Mallick, R., & Bargal, S. A. (2025). ViSTA: Visual Storytelling using Multi-modal Adapters for Text-to-Image Diffusion Models. 2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV). Tucson, AZ, USA. \textbf{Accepted as Oral (10\%)}
+- Mallick, R., **Dong, S.**, Ruiz, N., & Bargal, S. A. (2025). D-Feat Occlusions: Diffusion Features for Robustness to Partial Visual Occlusions in Object Recognition. 4th Workshop on Uncertainty Quantification for Computer Vision of the IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR). Nashville, TN, USA. 
 - He, Q. & **Dong, S.** (2024, July). Predicting Missing Response with BERT Model in Process Data. Accepted as an oral presentation at the International Meeting of Psychometric Society (IMPS), Prague, Czech.
 - **Dong, S.** & Yang, G. H. (2022, November). Do We Really Need Everything Everywhere All at Once? Query-Specific Fine-Tuning for Transformer-Based Neural Retrievers. Accepted as a presentation at the 31st Text REtrieval Conference (TREC). Rockville, MD, USA.
 - **Dong, S.**, Goldstein, J., & Yang, G. H. (2022, August). Gazby: Gaze-based bert model to incorporate human attention in neural information retrieval. In Proceedings of the 2022 ACM SIGIR International Conference on Theory of Information Retrieval (ICTIR), Madrid Spain.
 - **Dong, S.**, Goldstein, J., & Yang, G. H. (2022, August). SEINE: SEgment-based Indexing for NEural information retrieval. Workshop on Reaching Efficiency in Neural Information Retrieval (ReNeuIR) of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid Spain.   
 
+Under Review Works
+======
+- **Dong, S.**, Shaheen, I., & Bargal, S. A. (2026). FreeStory: Training-Free Character Consistency for Free-Form Visual Storytelling.
+- Mallick, R., Khoshnoodi, M., **Dong, S.**, & Bargal, S. A. (2026). See, Describe, Reason: Grounded Diagnostic Reasoning for Fine-Grained Facial Understanding.
 
 
 Experiences
 ======
+**Siemens**, Bellevue, WA, USA &emsp;&emsp; 05/2025 - 08/2025
+- Research Intern, GenX Team
+
 **Bytedance**, Bellevue, WA, USA &emsp;&emsp; 05/2023 - 08/2023
 - Research Scientist Intern, Applied Machine Learning Team
 
@@ -70,11 +79,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
