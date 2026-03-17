@@ -35,10 +35,10 @@ Publications
 - **Dong, S.**, Goldstein, J., & Yang, G. H. (2022, August). Gazby: Gaze-based bert model to incorporate human attention in neural information retrieval. In Proceedings of the 2022 ACM SIGIR International Conference on Theory of Information Retrieval (ICTIR), Madrid Spain.
 - **Dong, S.**, Goldstein, J., & Yang, G. H. (2022, August). SEINE: SEgment-based Indexing for NEural information retrieval. Workshop on Reaching Efficiency in Neural Information Retrieval (ReNeuIR) of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, Madrid Spain.   
 
-Under Review Works
+<!-- Under Review Works
 ======
 - **Dong, S.**, Shaheen, I., & Bargal, S. A. (2026). FreeStory: Training-Free Character Consistency for Free-Form Visual Storytelling.
-- Mallick, R., Khoshnoodi, M., **Dong, S.**, & Bargal, S. A. (2026). See, Describe, Reason: Grounded Diagnostic Reasoning for Fine-Grained Facial Understanding.
+- Mallick, R., Khoshnoodi, M., **Dong, S.**, & Bargal, S. A. (2026). See, Describe, Reason: Grounded Diagnostic Reasoning for Fine-Grained Facial Understanding. -->
 
 
 Experiences
